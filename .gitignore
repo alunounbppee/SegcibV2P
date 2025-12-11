@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Dados grandes (datasets, saídas)
+data/
+*.csv
+*.parquet
+
+# Modelos treinados
+*.joblib
+*.pkl
